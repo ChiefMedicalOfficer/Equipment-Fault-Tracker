@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-			<title>Equipment Fault Tracking Test</title>
+			<title>Equipment Fault Tracking</title>
 
 	</header>
 
